@@ -1,10 +1,10 @@
 ## Automated Detection of Malaria-Infected Cells from Microscopic Images using Deep Learning
 #### Unit: ADS2002 (2025, Semester 2)
 
-Objective
+Objective:
 - From 27,558 microscopic blood smear images, we aimed to create a deep learning model that can accurately classify the presence of parasitic infection in cell images.
 
-Main outcomes
+Main outcomes:
 - Resourcefully handled misclassifications to recover a correctly-labelled cell image dataset,
 - Incorporated data augmentation to produce more varied data for subsequent deep learning,
 - Utilized training backbones (ResNet18, ResNet50, DenseNet121, ConvNeXt-base) to train a CNN classifer, achieving the most balanced model with DenseNet121 of testing accuracy 98.80% in classifying Infected vs. Uninfected cell images
