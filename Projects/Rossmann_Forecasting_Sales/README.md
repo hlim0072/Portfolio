@@ -9,4 +9,4 @@ Main outcomes:
 - Analysis of the top 20% stores in terms of sales, showed that `Promotion` and `Customers` had the greatest positive impact on sales.
 - A StackingRegressor (base models RandomForestRegressor, GradientBoostingRegressor, XGBRegressor) achieved testing R^2 score of 0.84 in predicting the subsequent four weeks of sales. 
 
-*Please view the Final Report (`ADS1002_FinalReport_VI.pdf`) for the complete report, including the plots of predicted sales.
+*Please view the Final Report (`ADS1002_FinalReport_Rossmann.pdf`) for the complete report, including the plots of predicted sales.
