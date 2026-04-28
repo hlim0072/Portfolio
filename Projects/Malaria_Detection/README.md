@@ -7,6 +7,6 @@ Objective:
 Main outcomes:
 - Resourcefully handled misclassifications to recover a correctly-labelled cell image dataset,
 - Incorporated data augmentation to produce more varied data for subsequent deep learning,
-- Utilized training backbones (ResNet18, ResNet50, DenseNet121, ConvNeXt-base) to train a CNN classifer, achieving the most balanced model with DenseNet121 of testing accuracy 98.80% in classifying Infected vs. Uninfected cell images
+- Utilized training backbones (ResNet18, ResNet50, DenseNet121, ConvNeXt-base) to train a CNN classifer, achieving the most balanced model with DenseNet121 of testing accuracy 98.80% and recall 99% in classifying Infected vs. Uninfected cell images
 
 Please view the Final Report (`ADS2002_Final Report.pdf`) for the complete report.
