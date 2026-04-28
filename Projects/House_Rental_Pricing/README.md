@@ -1,4 +1,4 @@
-## Malaysia House Rental Pricing
+## Malaysia House Rental Pricing - Analysis & Predictions
 #### Unit: ADS1001 (2024, Semester 1)
 
 Objective:
