@@ -1,5 +1,5 @@
 ## Automated Detection of Malaria-Infected Cells from Microscopic Images using Deep Learning
-### Unit: ADS2002 (2025, Semester 2)
+#### Unit: ADS2002 (2025, Semester 2)
 
 Objective
 - From 27,558 microscopic blood smear images, we aimed to create a deep learning model that can accurately classify the presence of parasitic infection in cell images.
