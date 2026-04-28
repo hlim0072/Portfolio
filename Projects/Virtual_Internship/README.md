@@ -1,4 +1,4 @@
-## Virtual Internships - Predicting Student Performance based on Text Messages
+## Virtual Internships - Predictors of Student Performance based on Text Messages
 #### Unit: ADS2001 (2025, Semester 1)
 
 Objective:
