@@ -5,7 +5,7 @@ Objective:
 - From 27,558 microscopic blood smear images, we aimed to create a deep learning model that can accurately classify the presence of parasitic infection in cell images.
 
 Main outcomes:
-- Diagnosed mislabelled data and reconstructed a high-quality labelled dataset by leveraging external sources and matching image identifiers to preserve original data integrity,
+- Diagnosed mislabelled data and reconstructed a high-quality professionally labelled dataset by leveraging external sources and matching image identifiers to preserve original data integrity,
 - Incorporated data augmentation to produce more varied data for subsequent deep learning,
 - Utilized training backbones (ResNet18, ResNet50, DenseNet121, ConvNeXt-base) to train a CNN classifer, achieving the most balanced model with DenseNet121 of testing accuracy 98.80% and recall 99% in classifying Infected vs. Uninfected cell images
 
